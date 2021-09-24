@@ -124,7 +124,7 @@ def map(pos):
             ],
             [
                 InlineKeyboardButton(
-                    text='🛠 Source Code 🛠', url=f"https://{SOURCE_CODE}"
+                    text='❃ Owner ❃', url=f"https://t.me/FuckTheRulesWild"
                 )
             ],
             [InlineKeyboardButton(text='«', callback_data=f"help+{pos-1}")],
