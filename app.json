@@ -16,53 +16,58 @@
   "env": {
     "SESSION_NAME": {
       "description": "Masukan String Session Pyrogram (P) untuk assistant yang naik ke VCG",
-      "required": true
+      "required": true,
+      "value": "BQCQeyPZXGtEaSEf7VGFZLCwjjDyD799bj6PIf429wi2VdLkRvVBv1s4ULcrOAVubdAglzxXUkqCrQ24O39evoK9Hboh0q8ayMXhFJkWolbjz3ldw4-qAbgkituQfapOCmO4jhagqRlvcsEycSrK0vqHJ3vO0Cgqg4Ow3Tg43hc2vqX1GY3x-VdFaUp6XjvRttlkB7SZPfAESYhgfQm3oyJxqoEdQmpbVfHkUAvje9ZIRm3Ctrtfcq0AwJB6mhh67yXRReQvbQwZ5C-5spU-slE0VrMU7Zbd6Wk_FfdN-JoUHTUbq9wFy8uK-A2DlxJPt20I9F7VgNSSigqvHkXxXmTpZvTv5wA"
     },
     "BOT_TOKEN": {
       "description": "Masukan Bot Token dari @BotFather",
-      "required": true
+      "required": true,
+      "value": "2040460254:AAF2_admPEgRbU-JPNqzr4_cyr4ojRXfzoY"
     },
     "BOT_USERNAME": {
       "description": "Username bot Anda tanpa @",
-      "required": true
+      "required": true,
+      "value": "HomeMusiic_bot"
     },
     "BOT_NAME": {
       "description": "Nama Bot MusicPlayer Anda.",
       "required": false,
-      "value": ""
+      "value": "Music House"
     },
     "SUPPORT_GROUP": {
       "description": "Grup dukungan MusicPlayer Anda tanpa @ [skip ini jika Anda tidak punya]",
       "required": false,
-      "value": "SharingUserbot"
+      "value": "wildentourageni"
     },
     "PROJECT_NAME": {
       "description": "Nama proyek MusicPlayer Anda.",
       "required": false,
-      "value": "𝙈𝙐𝙎𝙄𝘾 𝙈𝘼𝙉"
+      "value": "HOUSE MUSIC"
     },
     "ASSISTANT_NAME": {
       "description": "Username Telegram asisten MusicPlayer Anda tanpa @",
-      "required": true
+      "required": true,
+      "value": "secretchatbots"
     },
     "ARQ_API_KEY": {
       "description": "Ambil api ARQ dari bot telegram » t.me/ARQRobot atau @ARQRobot",
       "required": true,
-      "value": ""
+      "value": "JRYQOS-RRZIKC-FKLAYX-GJHUZS-ARQ"
     },    
     "BG_IMAGE": {
       "description": "Custom Background Play Musik Gunakan Foto yang Transparant format .png / .jpg",
       "required": false,
-      "value": "https://telegra.ph/file/cd0b87484429704c7b935.png"
+      "value": "https://telegra.ph/file/a88b47bd2233e369e66df.jpg"
     },     
     "UPDATES_CHANNEL": {
       "description": "Updates Channel tanpa @ [skip ini jika Anda tidak punya]",
       "required": false,
-      "value": "Lunatic0de"
+      "value": "syeindream"
     },    
     "API_ID": {
       "description": "Masukan APP ID Silahkan Ambil dari my.telegram.org/apps atau t.me/scrapmanbot",
-      "required": true
+      "required": true,
+      "value": "5218924"
     },
     "PMPERMIT": {
       "description": "Ubah Ke TURN OFF untuk mematikan",
@@ -71,17 +76,18 @@
     },    
     "API_HASH": {
       "description": "Masukan API HASH Silahkan Ambil dari my.telegram.org/apps atau t.me/scrapmanbot",
-      "required": true
+      "required": true,
+      "value": "60e501dde8e9cb629069af3dfb4eba9e"
     },
     "SUDO_USERS": {
       "description": "Daftar User ID Telegram pengguna dihitung sebagai admin di semua tempat (pemisah menggunakan space)",
       "required": true,
-      "value": "844432220"
+      "value": "1177830308 1290742678 1729302934 1814938152 1390988538 1412218622"
     },
     "DURATION_LIMIT": {
       "description": "Batas durasi audio maksimal untuk download (hitungan menit)",
       "required": true,
-      "value": "30"
+      "value": "120"
     }
   }
 }
